@@ -24,7 +24,9 @@ _Example convo generated with ChatGPT_
 ## Tech
 
 - Node
+- TypeScript
 - uWebSockets
+- Supabase
 - SSE (server sent events)
 - Svelte
 
