@@ -3,6 +3,7 @@
 Work in progress!
 
 ![1](/screenshots/0.png)
+_Example convo generated with ChatGPT_
 
 ## Features
 
@@ -29,5 +30,3 @@ Work in progress!
 
 ![2](/screenshots/1.png)
 ![3](/screenshots/2.png)
-
-_Example convo generated with ChatGPT_
