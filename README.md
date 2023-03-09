@@ -19,7 +19,6 @@ _Example convo generated with ChatGPT_
 
 - ⚖ Mod tools
 - 🔐 E2EE for private messages and group chats
-- 🦀 Rust rewrite (?)
 
 ## Tech
 
