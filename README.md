@@ -17,7 +17,7 @@ _Example convo generated with ChatGPT_
 
 ## Roadmap
 
-- ⚖ Mod tools
+- ⚖ Moderation tools
 - 🔐 E2EE for private messages and group chats
 
 ## Tech
