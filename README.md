@@ -2,7 +2,8 @@
 
 Work in progress! 
 
-![1](/screenshots/0.png)
+![chat room screenshot 1](/screenshots/3.png)
+![chat room screenshot 2](/screenshots/0.png)
 _Example convo generated with ChatGPT_
 
 ## Features
@@ -29,5 +30,4 @@ _Example convo generated with ChatGPT_
 - SSE (server sent events)
 - Svelte
 
-![2](/screenshots/1.png)
-![3](/screenshots/2.png)
+![chat room screenshot 3](/screenshots/1.png)
