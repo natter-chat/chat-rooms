@@ -29,5 +29,6 @@ _Example convo generated with ChatGPT_
 - Supabase
 - SSE (server sent events)
 - Svelte
+- Astro
 
 ![chat room screenshot 3](/screenshots/1.png)
